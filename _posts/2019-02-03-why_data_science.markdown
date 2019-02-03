@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Data Science?"
-date:       2019-02-03 23:09:19 +0000
+date:       2019-02-03 18:09:20 -0500
 permalink:  why_data_science
 ---
 
@@ -12,7 +12,7 @@ I have a bachelor of science in physics and I have mostly worked in STEM* outrea
 
 As a physics major I really enjoyed solving physics related problems and I definitely see myself using those problems solving skills within data science. I like looking for different ways to solve a problem and I also like math. I see myself using skills in math, statistics, programming, and other related subjects to organize large data sets. I am also drawn to the creative aspect such as applying the technical skills to uncover solutions hidden in the data to take on business challenges and goals.
 
-While I learned that I enjoy the challenges that come along with solving tough problems as a physics major, I also realized that I enjoy sharing what I learn through talks, poster presentations, oureach, and workshops. I see data science as a compatible choice with my career goals where problem solving and communication skills intersect. 
+While I learned that I enjoy the challenges that come along with solving tough problems as a physics major, I also realized that I enjoy sharing what I learn through talks, poster presentations, outreach, and workshops. I see data science as a compatible choice with my career goals where problem solving and communication skills intersect. 
 
 I look forward to completing the data science course created by the Flatiron School and starting my career as a data scientist. 
 
